@@ -32,7 +32,7 @@ rag-based-question-answering-system/
 
 1. Clone the repository  
 git clone https://github.com/AyushGup11/astra-rag-llm-pipeline.git
-cd rag-based-question-answering-system  
+cd astra-rag-llm-pipeline
 
 2. Create virtual environment  
 python -m venv venv1 
